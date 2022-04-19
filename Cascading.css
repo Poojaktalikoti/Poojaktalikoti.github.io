@@ -1,0 +1,15 @@
+h3{
+    color: blueviolet;
+}
+
+/*groping selector*/
+h1,h2,h3{
+    font-size:80px;
+}
+/*class selector*/
+.sheet{
+text-decoration:underline;
+text-decoration:uppercase;
+}
+/*id selector*/
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
